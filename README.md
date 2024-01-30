@@ -1,4 +1,4 @@
-## Hi there, I'm Seokjae Ma 👋
+## Hi there, I'm Seokjae Ma 👋🏻
 
 <!--
 **MASEOKJAE/MASEOKJAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
