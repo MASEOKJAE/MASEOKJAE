@@ -50,6 +50,6 @@ Developer who believes in sharing what I have learned with others, and dreams of
 
 |Competition|Prize|Date|
 |------|---|---|
-|Smart Application category at the Handong Software Festival|Excellence Award|2022|
-|Handong Capstone Festival|Popularity Award|2022|
 |경북 LINC 3.0 대학연합 CES 2024, 매칭기업 아이디어 경진대회|Award from the Director of the Economic Promotion Agency|2024|
+|Handong Capstone Festival|Popularity Award|2022|
+|Smart Application category at the Handong Software Festival|Excellence Award|2022|
