@@ -41,9 +41,9 @@ Developer who believes in sharing what I have learned with others, and dreams of
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@maasj)](https://velog.io/@maasj)
 
 
-### 🥈 Algorithm Silver Level
+<!-- ### 🥈 Algorithm Silver Level
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maasj)](https://solved.ac/maasj/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maasj)](https://solved.ac/maasj/) -->
 
 
 ### 🏆 Awards
