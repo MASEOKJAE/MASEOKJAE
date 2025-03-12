@@ -10,64 +10,141 @@
 
 </br>
 
-<h1 align="center">
-📚 Tech Stacks
-</h1>
+<h1 align="center">📚 Tech Stacks</h1>
 
-<h3 align="center">
-🔹 Languages
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
-</p>
+<table align="center">
+  <!-- Languages -->
+  <tr>
+    <td align="center" colspan="2"><h2>💻 Languages</h2></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-🔹 DevOps & Cloud
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-EC2,ALB,RDS,ECR-blue?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
-</p>
+---
 
-<h3 align="center">
-🔹 Databases
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-</p>
+<table align="center">
+  <!-- DevOps & Cloud -->
+  <tr>
+    <td align="center" colspan="4"><h2>☁️ DevOps & Cloud</h2></td>
+  </tr>
+  <tr>
+    <td align="center"><h4>🏗️ Infrastructure</h4></td>
+    <td align="center"><h4>🔒 Security</h4></td>
+    <td align="center"><h4>🌐 Networking</h4></td>
+    <td align="center"><h4>⚙️ CI/CD</h4></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-EC2-blue?style=flat-square&logo=Amazon AWS&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/AWS-RDS-527FFF?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/AWS-Cognito-9B59B6?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-Route_53-9cf?style=flat-square&logo=Amazon AWS&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-🔹 Backend Development
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
-</p>
+---
 
-<h3 align="center">
-🔹 Frontend Development
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
-</p>
+<table align="center">
+  <!-- Databases -->
+  <tr>
+    <td align="center" colspan="3"><h2>🗄️ Databases</h2></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">
-🔹 Collaboration & Tools
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=JIRA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-</p>
+---
+
+<table align="center">
+  <!-- Backend -->
+  <tr>
+    <td align="center" colspan="3"><h2>🖥️ Backend Development</h2></td>
+  </tr>
+  <tr>
+    <td align="center"><h4>🛠️ Frameworks</h4></td>
+    <td align="center"><h4>📦 Build Tools</h4></td>
+    <td align="center"><h4>🧪 Testing</h4></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JUnit4-Testing-red?style=flat-square&logo=JUnit&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/JUnit5-Testing-green?style=flat-square&logo=JUnit&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table align="center">
+  <!-- Frontend -->
+  <tr>
+    <td align="center" colspan="3"><h2>🎨 Frontend Development</h2></td>
+  </tr>
+  <tr>
+    <td align="center"><h4>🖌️ Frameworks</h4></td>
+    <td align="center"><h4>📌 GUI Components</h4></td>
+    <td align="center"><h4>🛠️ State Management & Testing</h4></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JFrame-GUI-blue?style=flat-square&logo=Java&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/JFace-GUI-yellow?style=flat-square&logo=Eclipse&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Vitest-Testing-green?style=flat-square&logo=Vitest&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
