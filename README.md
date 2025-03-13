@@ -22,20 +22,39 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat-square&logo=Argo&logoColor=white)
+
+### 🌐 Networking & Security
+![AWS Route 53](https://img.shields.io/badge/AWS-Route_53-9cf?style=flat-square&logo=AmazonAWS&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=flat-square&logo=AmazonAWS&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS-Cognito-9B59B6?style=flat-square&logo=AmazonAWS&logoColor=white)
+
+### 🖥️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white)
+
+### 🧪 Testing & QA
+![JUnit 4](https://img.shields.io/badge/JUnit4-Testing-red?style=flat-square&logo=JUnit&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit5-Testing-green?style=flat-square&logo=JUnit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-Mocking-blue?style=flat-square&logo=Mockito&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-### 🖥️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
-
-### 🎨 Frontend
+### 🎨 Frontend & GUI
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
+![JFrame](https://img.shields.io/badge/JFrame-GUI-blue?style=flat-square&logo=Java&logoColor=white)
+![JFace](https://img.shields.io/badge/JFace-GUI-yellow?style=flat-square&logo=Eclipse&logoColor=white)
+
+### 🔌 Eclipse RCP Plugin Development
+![Eclipse RCP](https://img.shields.io/badge/Eclipse_RCP-Plugin_Development-purple?style=flat-square&logo=Eclipse&logoColor=white)
+![OSGi](https://img.shields.io/badge/OSGi-Framework-blue?style=flat-square&logo=OSGi&logoColor=white)
 
 ---
 
