@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi, I'm Seokjae Ma! 👋🏻</h1>
 
 <p align="center">
-  <b>Backend & Cloud Engineer | DevOps Enthusiast</b> 🌍<br>
+  <b>Backend & Cloud Engineer</b> 🌍<br>
   시스템 자동화와 효율적인 개발 환경 구축을 지향하는 개발자입니다.<br>
   <b>지식 공유와 DevOps 기술을 활용한 개발 생산성 향상</b>을 목표로 합니다.
 </p>
