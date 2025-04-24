@@ -169,7 +169,7 @@
 
 ## 📬 Contact & Blog
 📩 **Email**: [maasj7514@gmail.com](mailto:maasj7514@gmail.com)  
-📖 **Velog**: [velog.io/@maasj](https://velog.io/@maasj)
+📖 **Blog**: [velog.io/@maasj](https://velog.io/@maasj)
 
 ---
 
