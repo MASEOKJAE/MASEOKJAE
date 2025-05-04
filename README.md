@@ -11,7 +11,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### ☀️ Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-# 💼 Career  
+## 💼 Career  
 
 ### 🏢 **슈어소프트테크 | 인턴**  
 📅 **2024.06 - 2024.11**  
@@ -71,7 +71,7 @@
 
 ---
 
-# 🌟 Experience & Activity
+## 🌟 Experience & Activity
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CJ_logo.svg/642px-CJ_logo.svg.png" width="20" /> CJ 올리브네트웍스 | **클라우드 웨이브 4기**  
 📅 **2024.12 - 2025.02**  
@@ -138,7 +138,7 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 ### 🌐 HGU GLOCAL 웹사이트 개발 프로젝트 *(진행 중)*
 🔗 **[**GitHub Repository**](https://github.com/MASEOKJAE/hgu_glocal_project)**
@@ -215,7 +215,7 @@
 
 ---
 
-# 📬 Contact & Blog
+## 📬 Contact & Blog
 📩 **Email**: [maasj7514@gmail.com](mailto:maasj7514@gmail.com)  
 📖 **Blog**: [velog.io/@maasj](https://velog.io/@maasj)
 
