@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### ☀️ Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -61,7 +61,7 @@
 
 ---
 
-## 💼 Career  
+# 💼 Career  
 
 ### 🏢 **슈어소프트테크 | 인턴**  
 📅 **2024.06 - 2024.11**  
@@ -71,7 +71,7 @@
 
 ---
 
-## 🌟 Experience & Activity
+# 🌟 Experience & Activity
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CJ_logo.svg/642px-CJ_logo.svg.png" width="20" /> CJ 올리브네트웍스 | **클라우드 웨이브 4기**  
 📅 **2024.12 - 2025.02**  
@@ -138,36 +138,84 @@
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🛒 CJ 올리브영 온라인 쇼핑몰 인프라 구축
-- MSA 기반 트래픽 부하 분산 (VPC 단위 운영계 & 이벤트계 분리, Route 53 활용)
-- AWS DMS 기반 데이터 마이그레이션 (이벤트 종료 후 RDS 동기화 자동화)
-- Jenkins + ArgoCD + GitOps 기반 CI/CD 자동화 파이프라인 구축
-- React + Vite 기반 이벤트 대시보드 개발  
-🔗 **[GitHub Repository](https://github.com/CJ-Jungle-gym)**
+### 🌐 HGU GLOCAL 웹사이트 개발 프로젝트 *(진행 중)*
+🔗 **[**GitHub Repository**](https://github.com/MASEOKJAE/hgu_glocal_project)**
+- **기간**: 2025.03 – 현재
+- **개요**: 한동대학교 글로컬사업단의 공식 웹사이트를 구축하는 프로젝트로, AWS 인프라 설계부터 CI/CD, 백엔드 API 개발까지 전 과정을 담당
+- **역할**: DevOps 및 백엔드 개발 담당
+- **기술 스택**: Terraform, AWS (EC2, ALB, RDS, Route53, ECR, S3), GitHub Actions, Docker, Spring Boot, PostgreSQL
 
-### 🔧 CTA 설비 관리 시스템
-- AWS EC2 간 데이터 송수신 자동화 (SCP 모듈 활용)
-- Chokidar 기반 실시간 설비 상태 모니터링 시스템 구축
-- QR 코드 기반 온도 감지 및 위험도 평가 자동화  
-🔗 **[GitHub Repository](https://github.com/MASEOKJAE/CTA_Web_Project)**
-
-### 📜 TOMATO (Web3.0 성적 관리 시스템)
-- OAuth 2.0 인증 시스템 구축 (Google 로그인 프로세스 구현)
-- Express.js 기반 RESTful API 설계 및 서버 구축
-- ERC-721 기반 블록체인 스마트 컨트랙트 구현  
-🔗 **[GitHub Repository](https://github.com/MASEOKJAE/Capston_web3.0GMS)**
-
-### 📚 H-Library System (OODP 기반 도서 관리 시스템)
-- Template Method 패턴을 적용한 도서 검색 기능 최적화
-- Adapter 패턴 기반 외부 도서관 연동 시스템 구현
-- Observer 패턴 활용 실시간 요청 처리 시스템 구축  
-🔗 **[GitHub Repository](https://github.com/MASEOKJAE/OODP_Project)**
+**🪄 주요 성과**:
+- Terraform을 활용하여 Dev/Prod 환경을 분리한 VPC, Subnet, RDS, EC2, ALB, Route53 인프라 자동화 구축
+- GitHub Actions 기반 CI/CD 파이프라인 설계 및 구현
+    - 프론트엔드: `.env.production`을 빌드 시점에 반영하여 Next.js 환경 변수 미반영 이슈 해결
+    - 백엔드: `application-secret.properties`를 GitHub Secrets로 암호화하여 EC2에 안전하게 전달
+    - 배포 시 `docker system prune`을 통해 불필요한 리소스 자동 정리
+- Spring Boot 기반 공지사항 API (`목록`, `상세`, `미리보기`) 구현 및 S3 미디어 연동
+- 도메인 기반 CORS 설정 (`hguglocal.site`, ALB DNS 등)으로 API 접근 보안 강화
 
 ---
 
-## 📬 Contact & Blog
+### 🛒 CJ 올리브영 온라인 쇼핑몰 인프라 구축
+🔗 **[GitHub Repository](https://github.com/CJ-Jungle-gym)**
+- **기간**: 2025.02 – 2025.02
+- **개요**: CJ 올리브영의 온라인 쇼핑몰을 위한 AWS 기반 인프라를 구축하여, 이벤트 트래픽 폭증 시에도 안정적인 서비스 운영을 목표로 한 프로젝트
+- **역할**: PM, 클라우드 아키텍트 및 엔지니어
+- **기술 스택**: AWS (EKS, ALB, Route53, CloudFront), Terraform, Jenkins, ArgoCD, GitOps, React, Vite
+
+**🪄 주요 성과**:
+- MSA 기반 트래픽 부하 분산 (VPC 단위 운영계 & 이벤트계 분리, Route 53 활용)
+- AWS DMS 기반 데이터 마이그레이션 (이벤트 종료 후 RDS 동기화 자동화)
+- Jenkins + ArgoCD + GitOps 기반 CI/CD 자동화 파이프라인 구축
+- React + Vite 기반 이벤트 대시보드 개발
+
+---
+
+### 🔧 CTA 설비 관리 시스템
+🔗 **[GitHub Repository](https://github.com/MASEOKJAE/CTA_Web_Project)**
+- **기간**: 2023.06 – 2024.02
+- **개요**: 설비의 상태를 실시간으로 모니터링하고, 온도 감지 및 위험도 평가를 자동화하는 시스템 구축 산학 협력 프로젝트
+- **역할**: 백엔드 개발 및 시스템 통합
+- **기술 스택**: AWS EC2, SCP, Chokidar, QR 코드, Node.js
+
+**🪄 주요 성과**:
+- AWS EC2 간 데이터 송수신 자동화 (SCP 모듈 활용)
+- Chokidar 기반 실시간 설비 상태 모니터링 시스템 구축
+- QR 코드 기반 온도 감지 및 위험도 평가 자동화
+
+---
+
+### 📜 TOMATO (Web3.0 성적 관리 시스템)
+🔗 **[GitHub Repository](https://github.com/MASEOKJAE/Capston_web3.0GMS)**
+- **기간**: 2022.07 – 2023.07
+- **개요**: OAuth 2.0 인증 시스템과 ERC-721 기반 블록체인 스마트 컨트랙트를 활용한 성적 관리 시스템 개발 프로젝트
+- **역할**: 백엔드 개발 및 블록체인 스마트 컨트랙트 구현
+- **기술 스택**: Express.js, OAuth 2.0, ERC-721, MongoDB
+
+**🪄 주요 성과**:
+- Google OAuth 2.0을 활용한 인증 시스템 구축
+- Express.js 기반 RESTful API 설계 및 서버 구축
+- ERC-721 기반 블록체인 스마트 컨트랙트 구현
+
+---
+
+### 📚 H-Library System (OODP 기반 도서 관리 시스템)
+🔗 **[GitHub Repository](https://github.com/MASEOKJAE/OODP_Project)**
+- **기간**: 2023.04 – 2023.06
+- **개요**: 객체지향 설계 패턴을 적용하여 도서 검색 기능을 최적화하고, 외부 도서관 연동 시스템을 구현한 도서 관리 시스템 개발 프로젝트
+- **역할**: 시스템 설계 및 풀스택 개발
+- **기술 스택**: Java, Spring Boot, MySQL
+
+**🪄 주요 성과**:
+- Template Method 패턴을 적용한 도서 검색 기능 최적화
+- Adapter 패턴 기반 외부 도서관 연동 시스템 구현
+- Observer 패턴 활용 실시간 요청 처리 시스템 구축
+
+---
+
+# 📬 Contact & Blog
 📩 **Email**: [maasj7514@gmail.com](mailto:maasj7514@gmail.com)  
 📖 **Blog**: [velog.io/@maasj](https://velog.io/@maasj)
 
