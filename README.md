@@ -26,6 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps-orange?style=flat-square&logo=Argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)
 
 ### 🌐 Networking & Security
 ![AWS Route 53](https://img.shields.io/badge/AWS-Route_53-9cf?style=flat-square&logo=AmazonAWS&logoColor=white)
