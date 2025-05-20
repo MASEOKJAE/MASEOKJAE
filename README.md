@@ -144,18 +144,25 @@
 ### 🌐 HGU 글로컬대학 홈페이지 개발 프로젝트 *(진행 중)*
 🔗 **[**GitHub Repository**](https://github.com/D-Moong)**
 - **기간**: 2025.03 – 현재
-- **개요**: 한동대학교 글로컬대학의 공식 홈페이지를 구축하는 프로젝트로, AWS 인프라 설계부터 CI/CD, 백엔드 API 개발까지 전 과정을 담당
+- **개요**: 한동대학교 글로컬대학의 공식 홈페이지를 구축하는 프로젝트로, AWS 인프라 설계부터 CI/CD, 백엔드 API 개발까지 전 과정을 주도
 - **역할**: DevOps 및 백엔드 개발 담당
-- **기술 스택**: Terraform, AWS (EC2, ALB, RDS, Route53, ECR, S3), GitHub Actions, Docker, Spring Boot, PostgreSQL
+- **기술 스택**: Terraform, AWS (EC2, RDS, ALB, S3, Route53), Docker, GitHub Actions, Spring Boot, PostgreSQL, Next.js, nginx
 
 **🪄 주요 성과**:
-- Terraform을 활용하여 Dev/Prod 환경을 분리한 VPC, Subnet, RDS, EC2, ALB, Route53 인프라 자동화 구축
-- GitHub Actions 기반 CI/CD 파이프라인 설계 및 구현
-    - 프론트엔드: `.env.production`을 빌드 시점에 반영하여 Next.js 환경 변수 미반영 이슈 해결
-    - 백엔드: `application-secret.properties`를 GitHub Secrets로 암호화하여 EC2에 안전하게 전달
-    - 배포 시 `docker system prune`을 통해 불필요한 리소스 자동 정리
-- Spring Boot 기반 공지사항 API (`목록`, `상세`, `미리보기`) 구현 및 S3 미디어 연동
-- 도메인 기반 CORS 설정 (`hguglocal.site`, ALB DNS 등)으로 API 접근 보안 강화
+- Terraform을 활용해 **Dev/Prod 환경을 분리한 인프라 자동화** 구성
+    - VPC, Subnet, EC2, ALB, RDS, ECR, S3, Route 53 등을 모듈화하여 코드 기반 관리
+    - Prod VPC에는 **탄력적 IP + nginx 리버스 프록시 구성**을 통해 실제 사용자 트래픽 대응 가능 구조 설계
+- GitHub Actions 기반 **CI/CD 파이프라인 구축 및 운영**
+    - **Dev/Prod 환경 모두에 대해 프론트엔드/백엔드 자동 빌드 및 배포 파이프라인 완성**
+    - 백엔드: `application-secret.properties`를 GitHub Secrets로 안전하게 관리하며 EC2에 동적 배포
+    - 프론트엔드: `.env.production` 파일을 base64로 관리하며 Docker 빌드 시점에 환경변수 반영 처리
+    - 배포 시 `docker system prune` 및 컨테이너 재생성을 통해 **운영 서버의 안정성과 리소스 관리 최적화**
+- **보안 취약점 진단 자동화**
+    - OWASP ZAP을 GitHub Actions에 통합하여 프론트엔드 배포 시 **자동 취약점 스캐닝 및 리포트 생성**
+    - 학교 측 도메인 등록 조건(CSP, 보안 점검 등)을 충족하는 배포 구조 마련
+- **Spring Boot 기반 API 개발 및 배포**
+    - 공지사항 API (`목록`, `상세`, `미리보기`) 개발 및 **S3 연동을 통한 미디어 업로드 처리**
+    - 운영 환경에서의 CORS 보안 설정(`hguglocal.site`, ALB DNS 등)을 직접 구성
 
 ---
 
