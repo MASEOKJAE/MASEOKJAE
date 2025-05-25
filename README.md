@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Backend & Cloud Engineer</strong> | <em>DevOps Enthusiast</em> ☁️<br><br>
-  클라우드 인프라와 DevOps에 관심이 많은 백엔드 개발자입니다.<br>
+  클라우드 인프라와 DevOps에 관심이 많은 개발자입니다.<br>
   <b>API 테스트 자동화</b>, <b>CI/CD 파이프라인 구축</b>, <b>클라우드 기반 시스템 설계</b> 등의 경험을 통해<br>
   개발 생산성과 시스템 안정성을 높이는 일에 매력을 느낍니다.<br><br>
   프로젝트 리더 경험과 기술 블로그 활동을 바탕으로,<br>
