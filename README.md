@@ -223,16 +223,18 @@
 
 ---
 
+## 📊 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASEOKJAE&langs_count=10&layout=compact&theme=dark" height="180px"/>
+</p>
+
+---
+
 ## 📬 Contact & Blog
 📩 **Email**: [maasj7514@gmail.com](mailto:maasj7514@gmail.com)  
 📖 **Blog**: [velog.io/@maasj](https://velog.io/@maasj)
 
 ---
-
-<!-- ## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASEOKJAE&langs_count=10&layout=compact&theme=dark" height="180px"/>
-</p> -->
 
 ﻿
 <!--나중에 사용하면 좋을 거 같은 요소들-->
