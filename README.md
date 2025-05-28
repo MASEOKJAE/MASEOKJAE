@@ -143,7 +143,7 @@
 
 ### 🌐 HGU 글로컬대학 홈페이지 개발 프로젝트
 🔗 **[**GitHub Repository**](https://github.com/D-Moong)**
-- **기간**: 2025.03 – 현재
+- **기간**: 2025.03 – 2025.05
 - **개요**: 한동대학교 글로컬대학의 공식 홈페이지를 구축하는 프로젝트로, AWS 인프라 설계부터 CI/CD, 백엔드 API 개발까지 전 과정을 주도
 - **역할**: DevOps 및 백엔드 개발 담당
 - **기술 스택**: Terraform, AWS (EC2, RDS, ALB, S3, Route53), Docker, GitHub Actions, Spring Boot, PostgreSQL, Next.js, nginx
