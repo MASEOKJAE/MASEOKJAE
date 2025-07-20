@@ -198,7 +198,7 @@
 🔗 **[GitHub Repository](https://github.com/MASEOKJAE/Capston_web3.0GMS)**
 - **기간**: 2022.07 – 2023.07
 - **개요**: OAuth 2.0 인증 시스템과 ERC-721 기반 블록체인 스마트 컨트랙트를 활용한 성적 관리 시스템 개발 프로젝트
-- **역할**: 백엔드 개발 및 블록체인 스마트 컨트랙트 구현
+- **역할**: 팀장 및 풀스택 개발
 - **기술 스택**: Express.js, OAuth 2.0, ERC-721, MongoDB
 
 **🪄 주요 성과**:
