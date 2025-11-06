@@ -234,14 +234,12 @@
 📖 **Blog**: [velog.io/@maasj](https://velog.io/@maasj)
 
 ---
-
-﻿
 <!--나중에 사용하면 좋을 거 같은 요소들-->
 
 <!--  ## 🥈 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASEOKJAE&show_icons=true&theme=radical) -->
 
-<!-- ## 🥈 Algorithm Silver Level
+## 🥈 Algorithm Silver Level
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maasj)](https://solved.ac/maasj/) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maasj)](https://solved.ac/maasj/)
