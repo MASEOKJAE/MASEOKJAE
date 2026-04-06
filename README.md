@@ -73,7 +73,7 @@
 
 ## 🌟 Experience & Activity
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CJ_logo.svg/642px-CJ_logo.svg.png" width="20" /> CJ올리브네트웍스 | **클라우드 웨이브 4기**  
+### <img width="45" alt="pngegg" src="https://github.com/user-attachments/assets/b5caf56a-6ab6-4cfc-bb29-953ae539c1ea" /> CJ올리브네트웍스 | **클라우드 웨이브 4기**  
 📅 **2024.12 - 2025.02**  
 
 🚀 **클라우드 엔지니어링 교육 및 실습**  
@@ -102,7 +102,7 @@
 
 ---
 
-### 🇺🇸 **CES 2024 대구·경북 대학 연합 참관 프로그램**  
+### **CES 2024 대구·경북 대학 연합 참관 프로그램**  
 📅 **2023.11 - 2024.01**
 
 🚀 **학교 대표 학생으로 선정되어 CES 2024 참가**  
