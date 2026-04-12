@@ -222,13 +222,6 @@
 
 ---
 
-## 📊 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASEOKJAE&langs_count=10&layout=compact&theme=dark" height="180px"/>
-</p>
-
----
-
 ## 📬 Contact & Blog
 📩 **Email**: [maasj7514@gmail.com](mailto:maasj7514@gmail.com)  
 📖 **Blog**: [velog.io/@maasj](https://velog.io/@maasj)
@@ -239,6 +232,11 @@
 <!--  ## 🥈 Github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASEOKJAE&show_icons=true&theme=radical) -->
+
+<!-- ## 📊 Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASEOKJAE&langs_count=10&layout=compact&theme=dark" height="180px"/>
+</p> -->
 
 ## 🏅 Algorithm Gold Level
 
